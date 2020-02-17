@@ -1,4 +1,22 @@
 # Posser les Questions en Français
+
+#### Table of Contents
+- [Posser les Questions en Français](#posser-les-questions-en-fran%c3%a7ais)
+      - [Table of Contents](#table-of-contents)
+  - [Interrogative Form](#interrogative-form)
+    - [Subject-Verb Inversion](#subject-verb-inversion)
+      - [Important Cases to consider](#important-cases-to-consider)
+    - [Est-ce que](#est-ce-que)
+  - [Question Words](#question-words)
+    - [Quel(s)/Quelle(s)](#quelsquelles)
+      - [Lequel](#lequel)
+    - [Qui, Que, Quoi](#qui-que-quoi)
+    - [Où](#o%c3%b9)
+    - [Quand](#quand)
+  - [Using Question Words with Est-ce que](#using-question-words-with-est-ce-que)
+  - [Que vs Quel](#que-vs-quel)
+  - [Sources:](#sources)
+
 The main question words are:
 1. Quel(s)/Quelle(s)
 2. Que/Qui/Quoi/Qu'est-ce que
@@ -7,6 +25,7 @@ The main question words are:
 5. Comment
 
 Another important consideration is the situation: Formal or informal
+
 
 ## Interrogative Form
 
@@ -61,7 +80,8 @@ With est-ce que, it becomes: "Est-ce que vous comprenez la question?"
 It's used mainly in spoken/informal situations
 
 ## Question Words
-### Quel(s)/Quelle(s) - Cuál, Which/What
+### Quel(s)/Quelle(s)
+Cuál, Which/What
 Interrogative **adjectives**, and as adjectives they must conform to gender and plurality.
 
 #### Lequel
