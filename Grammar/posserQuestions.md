@@ -12,6 +12,7 @@
       - [Lequel](#lequel)
     - [Qui, Que, Quoi](#qui-que-quoi)
     - [Où](#o%c3%b9)
+    - [Comment](#comment)
     - [Quand](#quand)
   - [Using Question Words with Est-ce que](#using-question-words-with-est-ce-que)
   - [Que vs Quel](#que-vs-quel)
@@ -107,6 +108,9 @@ Can be combined with à or du to form auquel or duquel.
 
 ### Où
 Dondé, where?
+
+### Comment
+Comó, How?
 
 ### Quand
 Cuando, when?

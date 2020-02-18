@@ -4,10 +4,10 @@ Passé Compose es equivalente al tiempo presente perfecto.
 
 Por ejemplo:
 | language/idioma/langue | example/ejemplo/exemple |
-| --- | --- |
-| english | I have eaten |
-| español | He comido  |
-| français| J'ai mangé |
+| ---------------------- | ----------------------- |
+| english                | I have eaten            |
+| español                | He comido               |
+| français               | J'ai mangé              |
 
 Pero en francés, usa el passé compose en lugar de el passé simple. Usa passé compose cómo el préterito en español
 
@@ -32,4 +32,11 @@ Most verbs are conjugated with avoir
 Verbs involving: movement, pronominal verbs are conjugated with être
 Verbs conjugated with être are typically regular but they need to agree with gender and plural
 
-  
+### List of verbs conjugated with être
+naître <-> mourir
+aller <-> venir
+arriver <-> partir
+entrer <-> sortir
+monter <-> descendre
+passer <-> rester
+retourner <-> tomber
