@@ -53,6 +53,5 @@ Je me suis trompé
 Elle est chanteuese, elle s'appelle ... Elle est brune, et elle a les cheveux raides. Elle a les yeux noisette. Elle est jeune et elle a une taille moyenne. Elle est mince et une l'air douce. 
 
 
-
-
-
+## Description of seasons
+En été: Il commence a faire chaud. Parfois, il pleut. Le temperature est 
